@@ -3,14 +3,6 @@
     	"my_canvases": "My Canvases",
     	"my_badges":"My Badges"
     },
-    "visible_on_avatar_card": "Visible on Avatar Card",
-    "make_visible_on_avatar_card": "Make visible on Avatar Card",
-    "create_another_canvas": "Create Another Canvas",
     "clear_badges": "Clear Badges",
-    "search_by_creator": "Search by creator",
-    "search":"Search",
-    "no_badges_found": "No badges found.",
-    "no_badges_in_collection": "No badges in collection",
-    "no_badges_long_description":"Badges are a great way to express yourself, to display your connections with friends or groups, and are a lot of fun to share and collect. You can request badges from creators or create one on your own. <a href=\"http://avatars.imvu.com/catalog/newsletter/badges.php\">more info.</a>",
-    "go_back_to_your_collection": "Go back to your collection"
+    "badge_popup_header": "{{badge_name}} by {{avatar_name}}"
 }
